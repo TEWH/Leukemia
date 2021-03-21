@@ -195,7 +195,7 @@ interp.plot_confusion_matrix()
 # In[31]:
 
 
-from fastai.widgets import *
+from fastai.vision.widgets import *
 
 
 # In[ ]:
