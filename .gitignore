@@ -1,0 +1,4 @@
+output/
+leuk_venv/
+.vscode/
+__pycache__/
